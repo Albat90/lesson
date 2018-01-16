@@ -1,4 +1,4 @@
 <?php
-echo "Bonjour,je m'appelle Francis";
+echo "Un petit bonjour depuis la branche testing";
 ?>
 
